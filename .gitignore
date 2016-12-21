@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+target/
+*.iml
+.project
+.cache
+.classpath
+.settings
+bin/
+.clover
+.DS_Store
+dependency-reduced-pom.xml
+.idea
